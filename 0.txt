@@ -1,0 +1,1 @@
+powershell -c "Add-Type -A PresentationFramework; [Windows.MessageBox]::Show('TEST')"
